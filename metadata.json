@@ -1,0 +1,6 @@
+{
+  "name": "Doha Local Movers & Packers",
+  "description": "Premium movers and packers in Doha, Qatar. Professional home, villa, apartment, and office relocation, furniture handling, and secure storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
